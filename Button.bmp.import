@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/Button.bmp-92a95f9d7760223df55bc04e80e7e107.res"
+
+[deps]
+
+source_file="res://Button.bmp"
+dest_files=[ "res://.import/Button.bmp-92a95f9d7760223df55bc04e80e7e107.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

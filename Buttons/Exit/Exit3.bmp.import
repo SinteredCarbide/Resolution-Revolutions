@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/Exit3.bmp-152301fd873c6665791169f2fd4ae9c4.res"
+
+[deps]
+
+source_file="res://Buttons/Exit/Exit3.bmp"
+dest_files=[ "res://.import/Exit3.bmp-152301fd873c6665791169f2fd4ae9c4.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/Save3.bmp-aadfd3b968c75a047de91b21682d8704.res"
+
+[deps]
+
+source_file="res://Buttons/Save/Save3.bmp"
+dest_files=[ "res://.import/Save3.bmp-aadfd3b968c75a047de91b21682d8704.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

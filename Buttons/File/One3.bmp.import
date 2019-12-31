@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/One3.bmp-2169a901bf9ac8d33cc87a0c616cd166.res"
+
+[deps]
+
+source_file="res://Buttons/File/One3.bmp"
+dest_files=[ "res://.import/One3.bmp-2169a901bf9ac8d33cc87a0c616cd166.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5
